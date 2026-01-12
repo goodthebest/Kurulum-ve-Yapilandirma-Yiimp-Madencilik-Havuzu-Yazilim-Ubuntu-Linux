@@ -1,128 +1,128 @@
 <a id="readme"></a>
 
-# Crypto Mining Pool Setup Services
-# Mining Pool Software Expert: 
-## We Can Install Crypto Mining Pool for Any Algorithm or Altcoins.
-### This includes famous Bitcoin, Bitcoin Cash, BitcoinII/BC2, Dogecoin, Litecoin, Digibyte, Zcash and any other crypto altcoins of your choice, you just name it and we shall get it done for you.
+# Kripto Madencilik Havuzu Kurulum Hizmetleri
+# Madencilik Havuzu Yazılım Uzmanı: 
+## Herhangi Bir Algoritma veya Altcoin İçin Kripto Madencilik Havuzu Kurabiliriz.
+### Buna ünlü Bitcoin, Bitcoin Cash, Dogecoin, Litecoin, Digibyte ve seçtiğiniz herhangi diğer kripto altcoinler dahildir; adını söylemeniz yeterli, sizin için hallederiz.
 
-Hire a Professional Yiimp Mining Pool Software Expert, Blockchain Developer, and Programmer for Customized Mining Pool Solutions. Free Initial Consultation: Contact Us Today!
+Özelleştirilmiş Madencilik Havuzu Çözümleri için Profesyonel Bir Yiimp Madencilik Havuzu Yazılım Uzmanı, Blockchain Geliştiricisi ve Programcı Kiralayın. Ücretsiz İlk Danışmanlık: Bugün Bize Ulaşın!
 
 
 
 <a id="01-contact-information"></a>
-### 📬 Contact Information
+### 📬 İletişim Bilgileri
 
 
-- **Telegram:** [Click Here to Connect on Telegram](https://t.me/goodthebest)
-- **Email:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
+- **Telegram:** [Telegram'da Bağlanmak için Tıklayın](https://t.me/goodthebest)
+- **E-posta:** [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)
 - **Discord:** `goodthebest`  
-  *To add on Discord:* Open Discord → Friends → Add Friend → Paste `goodthebest` → Send Request
+  *Discord’a eklemek için:* Discord'u aç → Arkadaşlar → Arkadaş Ekle → \`goodthebest\` yapıştır → İstek Gönder
 
 
 <a id="toc"></a>
 
 <a id="table-of-contents"></a>
-## 📑 Table of Contents
+## 📑 İçindekiler
 
-- [ 📬 Contact Information](#01-contact-information)
+- [ 📬 İletişim Bilgileri](#01-contact-information)
 
-- [Install & Set Up a Crypto Mining Pool on Yiimp Open Source Software for Any Cryptocurrency or Algorithm – Ready in Hours](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
+- [Özel Bir Yiimp Madencilik Havuzunu Herhangi Bir Kripto Para veya Algoritma için Kurun ve Yapılandırın – Saatler İçinde Hazır](#1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours)
 
-- [Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
+- [Serbest Çalışanlar ve Bağımsız Yükleniciler Olarak Özel Blockchain Geliştirme ve Yiimp Madencilik Havuzu Kodlama Hizmetleri](#2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors)
 
-- [Advanced Yiimp Features Available:](#21-advanced-features-available)
+- [Gelişmiş Yiimp Özellikleri Mevcut:](#21-advanced-features-available)
 
-- [Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
-
-
-- [How Our Cyrpto Mining Pool Setup Process Works](#4-how-our-yiimp-mining-pool-setup-process-works)
+- [Altcoin'ler, Algoritmalar ve Özel Kripto Paralar için Profesyonel Yiimp Madencilik Havuzu Kurulumu](#3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies)
 
 
-- [Supported Algorithms for Yiimp Cryptocurrency Mining Pools](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
+- [Yiimp Madencilik Havuzu Kurulum Sürecimiz Nasıl Çalışır](#4-how-our-yiimp-mining-pool-setup-process-works)
 
 
-- [Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
+- [Yiimp Kripto Madencilik Havuzları için Desteklenen Algoritmalar](#5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools)
+
+
+- [Tek veya Çoklu Algoritmalı Yiimp Madencilik Havuzları için Desteklenen Kripto Paralar](#6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools)
 
 
 ---
 
 
 
-[⬆ Back to Top](#toc)
+[⬆ Başa Dön](#toc)
 
 <a id="1-set-up-a-custom-yiimp-mining-pool-for-any-cryptocurrency-or-algorithm-ready-in-hours"></a>
-## 1. Install & Set Up a Custom Yiimp Mining Pool for Any Cryptocurrency or Algorithm – Ready in Hours
-[⬆ Back to Top](#toc)
+## 1. Özel Bir Yiimp Madencilik Havuzunu Herhangi Bir Kripto Para veya Algoritma için Kurun ve Yapılandırın – Saatler İçinde Hazır
+[⬆ Başa Dön](#toc)
 
 
-Whether you're looking to mine a single cryptocurrency solo, create a private pool for friends and family, or launch a public mining pool compatible with NiceHash, cloud mining, or MRR (MiningRigRentals), we offer comprehensive solutions tailored to your needs. Our Yiimp mining pool setup services support multiple coins and algorithms, ensuring seamless blockchain integration and high-performance mining operations.
+İster tek bir kripto para birimini solo olarak kazmak isteyin, ister arkadaşlarınız ve aileniz için özel bir havuz oluşturun, ister NiceHash, bulut madenciliği veya MRR (MiningRigRentals) ile uyumlu halka açık bir madencilik havuzu başlatın; ihtiyaçlarınıza özel kapsamlı çözümler sunuyoruz. Yiimp madencilik havuzu kurulum hizmetlerimiz birden fazla coin ve algoritmayı destekler ve sorunsuz blok zinciri entegrasyonu ile yüksek performanslı madencilik operasyonları sağlar.
 
 <a id="2-custom-blockchain-development-and-yiimp-mining-pool-coding-services-as-freelancers-and-independent-contractors"></a>
-## 2. Custom Blockchain Development and Yiimp Mining Pool Coding Services As Freelancers and Independent Contractors
-[⬆ Back to Top](#toc)
+## 2. Serbest Çalışanlar ve Bağımsız Yükleniciler Olarak Özel Blockchain Geliştirme ve Yiimp Madencilik Havuzu Kodlama Hizmetleri
+[⬆ Başa Dön](#toc)
 
 
-We specialize in customized blockchain projects, including Yiimp mining pool modifications, algorithm integrations, and cryptocurrency forking. Compatible with Linux-based Ubuntu operating systems: 16.04, 18.04, 20.04, 22.04,24.04 and 25.01.
+Yiimp madencilik havuzu modifikasyonları, algoritma entegrasyonları ve kripto para çatalları dahil olmak üzere özelleştirilmiş blok zinciri projelerinde uzmanız. Linux tabanlı Ubuntu işletim sistemleriyle uyumludur: 16.04, 18.04, 20.04, 22.04, 24.04 ve 25.01.
 
-Our expert team installs, configures, and launches Yiimp mining pool software to enable mining for multiple crypto tokens and coins. We also handle setups for new coins forked from Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11), and more. We do have a solution for Zcash/zec mining pool using a software other than yiimp.
+Uzman ekibimiz, birden fazla kripto token ve coin madenciliği yapabilmeniz için Yiimp madencilik havuzu yazılımını kurar, yapılandırır ve başlatır. Ayrıca Bitcoin (SHA-256 PoW), Blackcoin (Scrypt PoS), Litecoin (Scrypt PoW), Dash (X11) ve daha fazlasından çatallanmış yeni coinler için kurulumlar gerçekleştiririz.
 
-Blackcoin's fork when mined on yiimp it might reject blocks, we do have a proper solution to this if your Blackcoin's clone is not accepting new blocks.
+Blackcoin'in çatallanmış sürümü yiimp üzerinde çıkarıldığında blokları reddedebilir; Blackcoin klonunuz yeni blokları kabul etmiyorsa bunun için uygun bir çözümümüz var.
 
-For personalized Yiimp multi-coin pool setup, troubleshooting, or quick support, reach out via our contact details.
+Kişiselleştirilmiş Yiimp çoklu coin havuzu kurulumu, sorun giderme veya hızlı destek için iletişim bilgilerimiz üzerinden bize ulaşın.
 
 <a id="21-advanced-features-available"></a>
-### 2.1. Advanced Yiimp Features Like Yiimp ASICBOOST Implementation for SHA256/SHA256D stratum and MWEB (LTC/scrypt) Available:
-[⬆ Back to Top](#toc)
+### 2.1. SHA256/SHA256D Stratum için Yiimp ASICBOOST Uygulaması ve MWEB (LTC/scrypt) Gibi Gelişmiş Yiimp Özellikleri Mevcuttur:
+[⬆ Başa Dön](#toc)
 
-- **ASICBoost-Enabled Mining Stratum:** We do have custom Yiimp Asicboost implemented solution for Bitcoin, for other bitcoin family altcoins and SHA256/SHA256D algo coins, supporting most ASICboost machines, cloud mining NiceHash, or MiningRigRentals.
-- **MWEB-Enabled Merged Mining Pools:** For Litecoin, Dogecoin, Bellscoin, and other Scrypt coins, compatible with ASIC hardware, NiceHash, or MRR.
+- **ASICBoost Etkin Madencilik Stratum'u:** Bitcoin ve diğer bitcoin ailesi altcoinleri ile SHA256/SHA256D algoritma coinleri için özel Yiimp Asicboost çözümlerimiz mevcuttur; çoğu ASICboost cihazını, NiceHash bulut madenciliğini veya MiningRigRentals hizmetini destekler.
+- **MWEB Etkin Birleşik Madencilik Havuzları:** Litecoin, Dogecoin, Bellscoin ve diğer Scrypt coinler için, ASIC donanımı, NiceHash veya MRR ile uyumludur.
 
-*Note:* This service is independent and not affiliated with platforms like Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit, or similar. Initial consultations and technical discussions for Yiimp projects are free.
+*Not:* Bu hizmet bağımsızdır ve Upwork, Freelancer.com, LinkedIn, Fiverr, Stack Overflow, Reddit veya benzeri platformlarla ilişkili değildir. Yiimp projeleri için ilk danışmalar ve teknik tartışmalar ücretsizdir.
 
 <a id="3-professional-yiimp-mining-pool-installation-for-altcoins-algorithms-and-custom-cryptocurrencies"></a>
-## 3. Professional Yiimp Mining Pool Installation for Altcoins, Algorithms, and Custom Cryptocurrencies
-[⬆ Back to Top](#toc)
+## 3. Altcoin'ler, Algoritmalar ve Özel Kripto Paralar için Profesyonel Yiimp Madencilik Havuzu Kurulumu
+[⬆ Başa Dön](#toc)
 
 
-Launch your own mining pool with our end-to-end Yiimp setup services. Relax while we handle everything from scratch, including:
+Uçtan uca Yiimp kurulum hizmetlerimizle kendi madencilik havuzunuzu başlatın. Her şeyi en baştan biz hallederken siz rahatlayın; hizmetlerimiz şunları içerir:
 
-- Installation of cryptocurrency wallets/daemons for your chosen coins.
-- Server setup, configuration, and administration for Yiimp mining software.
-- Options for solo, private, or public mining pools – ideal for personal use, sharing with friends, or open communities.
-- Customizable pool fees (set to zero or any percentage, adjustable anytime).
-- Compatibility with CPUs, GPUs, ASICs, or external services like NiceHash for rented hashpower.
-- Support for multi-coin and multi-algorithm pools – add more coins/algos as needed (if supported by Yiimp and your server).
-- Ongoing maintenance services available (minimal upkeep required post-setup).
-- Troubleshooting for issues like rejected blocks, payout failures, custom difficulties, vardiff, auto-exchange, daemons, and more.
-- Performance optimization and tweaks for Yiimp and server efficiency.
-- Custom features or modifications at additional cost.
-- Backed by real-world expertise – no reliance on tutorials, online courses, or secondhand knowledge.
+- Seçtiğiniz coinler için kripto para cüzdanlarının/daemonlarının kurulumu.
+- Yiimp madencilik yazılımı için sunucu kurulumu, yapılandırması ve yönetimi.
+- Solo, özel veya genel madencilik havuzu seçenekleri – kişisel kullanım, arkadaşlarla paylaşım veya açık topluluklar için ideal.
+- Özelleştirilebilir havuz ücretleri (sıfır veya herhangi bir yüzde olarak ayarlanabilir, istenildiğinde değiştirilebilir).
+- CPU, GPU, ASIC veya kiralık hash gücü için NiceHash gibi harici hizmetlerle uyumluluk.
+- Çoklu coin ve çoklu algoritma havuzları için destek – (Yiimp ve sunucunuz destekliyorsa) gerektiğinde daha fazla coin/algoritma ekleyin.
+- Sürekli bakım hizmetleri mevcuttur (kurulumdan sonra minimum bakım gerektirir).
+- Reddedilen bloklar, ödeme hataları, özel zorluklar, vardiff, otomatik değişim, daemonlar ve benzeri sorunlar için sorun giderme.
+- Yiimp ve sunucu verimliliği için performans optimizasyonu ve ince ayarlar.
+- Ek ücret karşılığında özel özellikler veya modifikasyonlar.
+- Gerçek dünya uzmanlığına dayalıdır – öğreticilere, çevrimiçi kurslara veya ikinci el bilgiye güvenmeden.
 
-**Important:** Yiimp pool software must be installed on an Ubuntu Linux distribution. It is not compatible with Windows, macOS, Android, Raspberry Pi, iOS, or alternative Linux distributions such as CentOS, Fedora, Debian, Arch, or Alpine. However, miners running any of these operating systems can still connect to a Yiimp pool.
+**Önemli:** Yiimp havuz yazılımı bir Ubuntu Linux dağıtımına kurulmalıdır. Windows, macOS, Android, Raspberry Pi, iOS veya CentOS, Fedora, Debian, Arch veya Alpine gibi alternatif Linux dağıtımlarıyla uyumlu değildir. Ancak bu işletim sistemlerinden herhangi birini kullanan madenciler yine de bir Yiimp havuzuna bağlanabilir.
 
 <a id="4-how-our-yiimp-mining-pool-setup-process-works"></a>
-## 4. How Our Yiimp Mining Pool Setup Process Works
-[⬆ Back to Top](#toc)
+## 4. Yiimp Madencilik Havuzu Kurulum Sürecimiz Nasıl Çalışır
+[⬆ Başa Dön](#toc)
 
 
-No downloads or technical actions needed on your end. Our experts manage the entire process. You'll need a VPS, cloud instance (e.g., AWS), or dedicated server from providers like Digital Ocean, Vultr, Hetzner Cloud, Linode, or your own hardware. Minimum specs and Ubuntu version depend on your mining requirements.
+Tarafınızdan herhangi bir indirme veya teknik işlem gerekmez. Uzmanlarımız tüm süreci yönetir. Dijital Ocean, Vultr, Hetzner Cloud, Linode gibi sağlayıcılardan veya kendi donanımınızdan bir VPS, bulut örneği (örneğin AWS) veya özel sunucuya ihtiyacınız olacak. Minimum donanım özellikleri ve Ubuntu sürümü madencilik gereksinimlerinize bağlıdır.
 
-📬 **For a quick consultation or custom quote, contact us directly:**  
+📬 **Hızlı bir danışma veya özel teklif için bizimle doğrudan iletişime geçin:**  
 - Telegram: [https://t.me/goodthebest](https://t.me/goodthebest)  
-- Email: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
+- E-posta: [onlinebuybiz@gmail.com](mailto:onlinebuybiz@gmail.com)  
 - Discord: `goodthebest`
 
 
-We work remotely via **TeamViewer** or **AnyDesk** for transparency (no direct server access required). Provide credentials if preferred, and we'll set up the pool – you can change passwords afterward.
+Şeffaflık için uzaktan **TeamViewer** veya **AnyDesk** üzerinden çalışıyoruz (doğrudan sunucu erişimi gerekmiyor). Tercih ederseniz kimlik bilgilerini sağlayın; havuzu kuracağız – şifreleri sonrasında değiştirebilirsiniz.
 
-For a customized quote on Yiimp mining pool setup, blockchain development, or crypto mining services, contact us today for real-time discussions.
+Yiimp madencilik havuzu kurulumu, blok zinciri geliştirme veya kripto madencilik hizmetleri için özelleştirilmiş bir teklif almak üzere bugün bizimle gerçek zamanlı görüşmek için iletişime geçin.
 
 <a id="5-supported-algorithms-for-yiimp-cryptocurrency-mining-pools"></a>
-## 5. Supported Algorithms for Yiimp Cryptocurrency Mining Pools
-[⬆ Back to Top](#toc)
+## 5. Yiimp Kripto Madencilik Havuzları için Desteklenen Algoritmalar
+[⬆ Başa Dön](#toc)
 
 
-Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a comprehensive list:
+Yiimp, verimli kripto madenciliği için geniş bir algoritma yelpazesini destekler. İşte kapsamlı bir liste:
 
 | Algos       | Algos       | Algos       | Algos       | Algos       | Algos       |
 |-------------|-------------|-------------|-------------|-------------|-------------|
@@ -154,12 +154,12 @@ Yiimp supports a wide range of algorithms for efficient crypto mining. Here's a 
 
 
 <a id="6-supported-cryptocurrencies-for-single-or-multi-algo-yiimp-mining-pools"></a>
-## 6. Supported Cryptocurrencies for Single or Multi-Algo Yiimp Mining Pools
-[⬆ Back to Top](#toc)
+## 6. Tek veya Çoklu Algoritmalı Yiimp Madencilik Havuzları için Desteklenen Kripto Paralar
+[⬆ Başa Dön](#toc)
 
 
 <details>
-<summary>Supported Cryptocurrencies for Single or Multi‑Algo Yiimp Mining Pools — We can configure Yiimp pools for most cryptocurrencies (with some exceptions). Here's an extensive list of supported coins for your mining pool setup:</summary>
+<summary>Tek veya Çoklu Algoritmalı Yiimp Madencilik Havuzları için Desteklenen Kripto Paralar — Çoğu kripto para için Yiimp havuzları yapılandırabiliriz (bazı istisnalar dışında). İşte madencilik havuzu kurulumunuz için desteklenen coinlerin kapsamlı bir listesi:</summary>
 
 | Crypto Mining | Cryptocurrencies | Mining Pools | Altcoin | MiningPool | Alt Currency | Crypto Coins |
 |---------------|------------------|--------------|---------|------------|--------------|--------------|
